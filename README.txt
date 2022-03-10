@@ -5,7 +5,7 @@ It contains 3 directories:
 
 1. 'HelloWorld': Holds the Hello World contract written in Solidity - An object-oriented high level programming language, denoted with .sol suffix in file name.
 2. 'scripts': Holds two scripts to deploy a contract. It is explained below.
-3. 'tests': Contains one test file for 'Ballot' contract with unit tests in Solidity.
+3. 'artifacts': Contains two files for the 'HelloWorld' contract's Bytecode otherwise known as BIN and its Application Binary Interface (ABI).
 
 SCRIPTS
 
