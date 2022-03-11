@@ -1,6 +1,4 @@
-REMIX EXAMPLE PROJECT
-
-Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
+HelloWorldContract is developed with Remix IDE and is presented as #Blockgames Task 2 which determines students progression through the competition stages.
 It contains 3 directories:
 
 1. 'HelloWorld': Holds the Hello World contract written in Solidity - An object-oriented high level programming language, denoted with .sol suffix in file name.
